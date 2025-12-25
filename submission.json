@@ -1,1 +1,9 @@
 {} 
+{
+  "testCredentials": {
+    "superAdmin": {
+      "email": "superadminsystem.com",
+      "password": "Admin123"
+    }
+  }
+}
